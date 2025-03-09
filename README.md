@@ -57,5 +57,5 @@ Edit
 8. Save and Exit
 For example, when choosing option 4, you'll be prompted to select a class from a numbered list (e.g., "1. Mathematics"). Just enter the number corresponding to the desired class to view its students.
 
-Contributions
+## Contributions
 Feel free to fork this project and submit pull requests if you want to add new features or fix bugs. Contributions are always welcome!
