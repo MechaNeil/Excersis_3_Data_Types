@@ -19,7 +19,7 @@ public class Main {
             }
         }
 
-        System.out.println("Welcome to the Student Management System, bro!");
+        System.out.println("Welcome to the Student Management System!");
         boolean exit = false;
         while (!exit) {
             System.out.println("\nMenu:");
@@ -65,7 +65,7 @@ public class Main {
             }
         }
         scanner.close();
-        System.out.println("Goodbye, bro!");
+        System.out.println("Goodbye!");
     }
 
     // ----------------------
