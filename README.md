@@ -34,10 +34,10 @@ StudentManagementSystem/
 
 ## How to Compile and Run
 
-1. **Open Terminal/Command Prompt and navigate to the `src` folder:**
+1. **Open Terminal/Command Prompt and navigate to the `StudentManagementSystem` folder:**
 
    ```bash
-   cd /path/to/StudentManagementSystem/src
+   cd /path/to/StudentManagementSystem/
    ```
 
 2. **Compile all Java files:**
