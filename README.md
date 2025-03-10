@@ -29,7 +29,7 @@ StudentManagementSystem/
 ## Requirements
 
 - Java Development Kit (JDK) 8 or higher.
-- A command-line interface or an IDE like Eclipse/IntelliJ IDEA for compiling and running the project.
+- A command-line interface or an IDE like Eclipse, IntelliJ, Vscode IDEA for compiling and running the project.
 
 ## How to Compile and Run
 
