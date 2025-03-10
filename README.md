@@ -8,7 +8,6 @@ A basic Java-based Student Management System that allows users to create classes
 
 ```
 StudentManagementSystem/
-└── src/
     ├── Main.java
     ├── models/
     │   ├── Student.java
