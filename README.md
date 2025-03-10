@@ -1,8 +1,5 @@
-Good day, Neil, bro! Here's a sample **README.md** file for your Student Management System project. This file outlines the project, its structure, features, and instructions on how to compile and run the project.
+![Banner](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE1NjUzNDQsIm5iZiI6MTc0MTU2NTA0NCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzEwVDAwMDQwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZmMDM5ZmQzZjk5ZjYwMjE0MWZhYWZmYTQ0MjQyNTcyMDliZDA5OTUzMmM5ZmQyZmRjMjRjYzBkYWNlNGNjN2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.909u-zAsybfQcTJNai-VxvV43E3kRf3MiGZLTVR0Zqk)
 
----
-
-```markdown
 # Student Management System
 
 A basic Java-based Student Management System that allows users to create classes, add students, and perform CRUD (Create, Read, Update, Delete) operations on student records. This project uses a modular file structure to separate different concerns (models, services, utilities) for better organization and scalability.
